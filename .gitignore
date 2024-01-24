@@ -10,7 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+# dist/  ## not ignoring dist in this case as we want to deploy the built files straight from the repo
 downloads/
 eggs/
 .eggs/
