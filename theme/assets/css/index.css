@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: #fef9e8ee;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; *//* bootstrap default for backwards compat */
+    font-size: 14px; /* bootstrap default for backwards compat */
+}
+
+img {
+    width: 200px;
+}
+
+#logo {
+    width: 200px;
+}
+
+/* these sometimes appear in html from markdown */
+hr {
+    display: none;
+}
+
+/* temp style */
+
+#body-container {
+    margin-top: 40px;
+    min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
+    overflow: hidden; /* prevents child elements' margins from pushing this around  */
+}
+div#content {
+    max-width: 600px;
+    margin: auto;
+}
+
+
+
+/* footer */
+footer {
+    height: 30px;
+    overflow: hidden;
+    background-color: rgb(46, 46, 46);
+    color: rgb(131, 140, 149);
+    font-size: 12px;
+    font-weight: normal;
+    padding: 5px 4em;
+    text-align: left;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
