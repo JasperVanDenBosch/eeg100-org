@@ -20,6 +20,10 @@
     <a class="partner-link" href="https://globalbrainconsortium.org">
         <img class="partner-logo" src="/assets/images/gbc_logo.png">
     </a>
+
+{% for child in node.children %}
+    <a href="{{ child.name }}/">{{ child.name }}</a>
+{% endfor %}
 </div>
 </div><footer>
     <span id="copyright-reference">&copy; 2024 EEG100</span>
