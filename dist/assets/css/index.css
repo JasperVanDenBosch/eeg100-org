@@ -6,12 +6,13 @@ body {
     font-size: 14px; /* bootstrap default for backwards compat */
 }
 
-img {
-    width: 200px;
+a.partner-link {
+    display: inline-block;
+    margin: 1em;
 }
 
-#logo {
-    width: 200px;
+img.partner-logo {
+    height: 60px;
 }
 
 /* these sometimes appear in html from markdown */
