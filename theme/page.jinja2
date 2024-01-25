@@ -11,7 +11,17 @@
 
 <div id="body-container">{# pushes down the footer when there is little content #}
 <div id="content">
-{{ node.content_html|safe }}
+
+    {{ node.content_html|safe }}
+
+    <a class="partner-link" href="https://eegmanylabs.org">
+        <img class="partner-logo" src="/assets/images/eegmanylabs_logo.png">
+    </a>
+    <a class="partner-link" href="https://globalbrainconsortium.org">
+        <img class="partner-logo" src="/assets/images/gbc_logo.png">
+    </a>
+
+
 </div>
 </div><footer>
     <span id="copyright-reference">&copy; 2024 EEG100</span>
