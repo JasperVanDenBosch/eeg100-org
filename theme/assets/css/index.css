@@ -1,8 +1,7 @@
 body {
     margin: 0;
-    background-color: #fef9e8ee;
-    font-family: Tahoma, Geneva, Verdana, sans-serif;
-    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; *//* bootstrap default for backwards compat */
+    background-color: whitesmoke;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 14px; /* bootstrap default for backwards compat */
 }
 
@@ -20,12 +19,26 @@ hr {
     display: none;
 }
 
+h1 {
+    font-weight: normal;
+    font-size: 4em;
+    color: rgb(74, 74, 74);
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1em;
+    color: rgb(74, 74, 74);
+    font-style: italic;
+}
+
 /* temp style */
 
 #body-container {
     margin-top: 40px;
     min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
     overflow: hidden; /* prevents child elements' margins from pushing this around  */
+    text-align: center;
 }
 div#content {
     max-width: 600px;
