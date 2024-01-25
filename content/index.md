@@ -11,3 +11,5 @@ This year Electroencephalography turns 100
 ### congress china
 ### cuttingEEG
 ### paper release
+Autumn
+Jena, Germany

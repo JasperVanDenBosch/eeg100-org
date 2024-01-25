@@ -10,7 +10,12 @@ img {
     width: 200px;
 }
 
-#logo {
+a.partner-link {
+    display: inline-block;
+    margin: 1em;
+}
+
+img.partner-logo {
     width: 200px;
 }
 
