@@ -9,13 +9,10 @@
 </head>
 <body>
 
-<div id="body-container">
-<div id="content">
+<div id="body-container">{# pushes down the footer when there is little content #}
+<div id="content" class="div-{{ index.name }}">
 
-    <hr />
-<h2>Neuroscience Congress</h2>
-<h3>September 2024 | Chengdu, China</h3>
-<p>University of Electronic Science and Technology of China</p>
+    {{ index.content_html|safe }}
 
     <a class="partner-link" href="https://eegmanylabs.org">
         <img class="partner-logo" src="/assets/images/eegmanylabs_logo.png">

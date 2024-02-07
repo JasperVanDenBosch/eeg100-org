@@ -61,3 +61,7 @@ footer {
     -moz-box-sizing: content-box;
     box-sizing: content-box;
 }
+
+.div-2024-image-competition h2 {
+    font-size: 24px;
+}
