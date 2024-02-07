@@ -10,7 +10,11 @@ Much has happened since then and in light of ongoing developments on hardware, s
 People in various scientific organisations are working to celebrate this jubilee throughout the year.
 This site lists events, articles, and other relevant resources related to the anniversary - if you know of something you believe is missing on this page, please get in touch! 
 
-<br/><br/>
+<br/>
+
+[#EEG100 Image Competition](/2024-image-competition/)
+
+<br/>
 
 ### DGKN 
 

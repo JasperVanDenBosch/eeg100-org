@@ -10,9 +10,9 @@
 <body>
 
 <div id="body-container">{# pushes down the footer when there is little content #}
-<div id="content">
+<div id="content" class="div-{{ index.name }}">
 
-    {{ node.content_html|safe }}
+    {{ index.content_html|safe }}
 
     <a class="partner-link" href="https://eegmanylabs.org">
         <img class="partner-logo" src="/assets/images/eegmanylabs_logo.png">
