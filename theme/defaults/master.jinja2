@@ -10,9 +10,10 @@
 <body>
 
 <div id="body-container">{# pushes down the footer when there is little content #}
-<div id="content" class="div-{{ index.name }}">
+<div id="content">
 
-    {{ index.content_html|safe }}
+{% block main %}
+{% endblock %}
 
 </div>
 </div><footer>
