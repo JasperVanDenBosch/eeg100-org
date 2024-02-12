@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=utf-8>
+    <meta http-equiv=x-ua-compatible content="ie=edge">
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/index.css">
+    <title>EEG100</title>
+</head>
+<body>
+
+<div id="body-container">{# pushes down the footer when there is little content #}
+<div id="content" class="div-{{ index.name }}">
+
+    {{ index.content_html|safe }}
+
+</div>
+</div><footer>
+    <span id="copyright-reference">&copy; 2024 EEG100</span>
+</footer>
+</body>
+</html>
