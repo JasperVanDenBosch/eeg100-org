@@ -1,9 +1,10 @@
 ---
+SequenceNumber: 120
 EventURL: 
 ---
 
-## Neuroscience Congress
+## Population Brain Health Congress
 
-### September 2024 | Chengdu, China
+### 3-5 September 2024 | Chengdu, China
 
-University of Electronic Science and Technology of China
+*University of Electronic Science and Technology of China*

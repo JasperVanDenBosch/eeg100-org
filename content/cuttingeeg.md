@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 130
 EventURL: https://cuttingeeg.org
 ---
 
@@ -6,4 +7,4 @@ EventURL: https://cuttingeeg.org
 
 ### October 2024 | Berlin, Germany
 
-A collective for Cutting-edge EEG/MEG research
+*A collective for Cutting-edge EEG/MEG research*
