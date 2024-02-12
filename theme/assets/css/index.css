@@ -1,18 +1,10 @@
 body {
     margin: 0;
-    background-color: whitesmoke;
+    background-color: #F7F7F7;
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 14px; /* bootstrap default for backwards compat */
 }
 
-a.partner-link {
-    display: inline-block;
-    margin: 1em;
-}
-
-img.partner-logo {
-    height: 60px;
-}
 
 /* these sometimes appear in html from markdown */
 hr {
@@ -25,12 +17,6 @@ h1 {
     color: rgb(74, 74, 74);
 }
 
-h2 {
-    font-weight: normal;
-    font-size: 1em;
-    color: rgb(74, 74, 74);
-    font-style: italic;
-}
 
 /* temp style */
 
@@ -43,6 +29,13 @@ h2 {
 div#content {
     max-width: 600px;
     margin: auto;
+}
+
+section {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
 }
 
 
@@ -61,6 +54,25 @@ footer {
     -moz-box-sizing: content-box;
     box-sizing: content-box;
 }
+
+/* Survey section  */
+
+#survey img {
+    height: 120px;
+}
+
+/* About section  */
+
+#about a {
+    display: inline-block;
+    margin: 1em;
+}
+
+#about img {
+    height: 60px;
+}
+
+/* Image competition page */
 
 .article-2024-image-competition h2 {
     font-size: 24px;
