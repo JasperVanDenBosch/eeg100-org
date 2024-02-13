@@ -5,20 +5,10 @@ body {
     font-size: 14px; /* bootstrap default for backwards compat */
 }
 
-
 /* these sometimes appear in html from markdown */
 hr {
     display: none;
 }
-
-h1 {
-    font-weight: normal;
-    font-size: 4em;
-    color: rgb(74, 74, 74);
-}
-
-
-/* temp style */
 
 #body-container {
     margin-top: 40px;
@@ -31,6 +21,12 @@ div#content {
     margin: auto;
 }
 
+h1 {
+    font-weight: normal;
+    font-size: 4em;
+    color: rgb(74, 74, 74);
+}
+
 section {
     background-color: white;
     border-radius: 5px;
@@ -38,6 +34,17 @@ section {
     margin: 10px;
 }
 
+a {
+    text-decoration: none;
+    color: rgb(0, 99, 99);
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 4px;
+}
+a:hover {
+    color:rgb(0, 57, 57);
+    background-color: #F7F7F7;
+}
 
 
 /* footer */
@@ -61,6 +68,22 @@ footer {
     height: 120px;
 }
 
+#survey a:has(> img) {
+    border: none;
+    padding: none;
+}
+#survey a:has(> img):hover {
+    background-color: transparent;
+}
+
+/* Conference sections */
+
+#dgkn img,
+#pbhc img,
+#cuttingeeg img {
+    height: 80px;
+}
+
 /* About section  */
 
 #about a {
@@ -70,6 +93,18 @@ footer {
 
 #about img {
     height: 60px;
+}
+
+#about a {
+    color: rgb(0, 99, 99);
+    border: none;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+}
+#about a:hover {
+    text-decoration: underline;
+    background-color: transparent;
 }
 
 /* Image competition page */

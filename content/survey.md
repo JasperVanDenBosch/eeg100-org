@@ -1,11 +1,11 @@
 ---
-SequenceNumber: 200
+SequenceNumber: 50
 ---
 
 ## Survey
 
 [Take Part in Survey](https://tinyurl.com/EEG100)
 
-[![Survey](/assets/images/survey_preview.png 'Global Survey Results')](/survey)
+[![Survey](/assets/images/survey_preview.png 'Global Survey Results')](/survey '')
 
 [Explore Survey Data](/survey)
