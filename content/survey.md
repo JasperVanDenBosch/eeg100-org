@@ -6,6 +6,6 @@ SequenceNumber: 50
 
 [Take Part in Survey](https://tinyurl.com/EEG100)
 
-[![Survey](/assets/images/survey_preview.png 'Global Survey Results')](/survey '')
+[![Survey](/assets/images/survey_preview.png 'Global Survey Results')](/survey/ '')
 
-[Explore Survey Data](/survey)
+[Explore Survey Data](/survey/)
