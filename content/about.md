@@ -12,4 +12,4 @@ This site lists events, articles, and other relevant resources related to the an
 
 [century.of.eeg@gmail.com](mailto:century.of.eeg@gmail.com)
 
-[![eegmanylabs](/assets/images/eegmanylabs_logo.png)](https://eegmanylabs.org)[![global brain consortium](/assets/images/gbc_logo.png)](https://globalbrainconsortium.org)
+[![eegmanylabs](/assets/images/eegmanylabs_logo.png)]()[![global brain consortium](/assets/images/gbc_logo.png)](https://globalbrainconsortium.org)
