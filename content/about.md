@@ -1,6 +1,6 @@
----
-SequenceNumber: 800
----
++++
+SequenceNumber = 800
++++
 
 ## About
 
