@@ -1,6 +1,6 @@
----
-SequenceNumber: 50
----
++++
+SequenceNumber = 50
++++
 
 ## Survey
 
