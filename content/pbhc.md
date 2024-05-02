@@ -2,10 +2,12 @@
 SequenceNumber = 120
 +++
 
-## Population Brain Health Congress
+## The 1st Belt and Road Conference on Advancing Population Brain Health through Brain-Apparatus Communication
 
-![Chengdu](/assets/images/chengdu.jpg 'Chengdun')
+![Chengdu](/assets/images/chengdu.jpg 'Chengdu')
 
-### 3-5 September 2024 | Chengdu, China
+### 6-8 September 2024 | Chengdu, China
 
 *University of Electronic Science and Technology of China*
+
+[Conference Website](http://neurotech-2024.com/index.html)
