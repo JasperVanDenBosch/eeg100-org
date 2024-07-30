@@ -2,11 +2,12 @@
 SequenceNumber = 700
 +++
 
-## Press
+## Media
 
-### Articles
+### Press
 
-* [The Conversation](https://theconversation.com/a-century-after-the-eeg-was-discovered-it-remains-a-crucial-tool-for-understanding-the-brain-213843) ![lang-gb](/assets/images/flags/gb.svg 'English')
+* [The Conversation (1)](https://theconversation.com/a-century-after-the-eeg-was-discovered-it-remains-a-crucial-tool-for-understanding-the-brain-213843) ![lang-gb](/assets/images/flags/gb.svg 'English')
+* [The Conversation (2)](https://theconversation.com/from-diagnosing-brain-disorders-to-cognitive-enhancement-100-years-of-eeg-have-transformed-neuroscience-218012) ![lang-gb](/assets/images/flags/gb.svg 'English')
 * [Scientific American](https://www.scientificamerican.com/article/from-diagnosing-brain-disorders-to-cognitive-enhancement-100-years-of-eeg/) ![lang-us](/assets/images/flags/us.svg 'English')
 * [Popular Science](https://www.popsci.com/technology/what-is-eeg/) ![lang-us](/assets/images/flags/us.svg 'English')
 * [RedaktionsNetzwerk Deutschland](https://www.rnd.de/wissen/hirnforschung-das-eeg-entschluesselt-seit-100-jahren-unser-gehirn-XLSHZGJ6RNOWZPMR3WENH5BJMI.html) ![lang-de](/assets/images/flags/de.svg 'German')
