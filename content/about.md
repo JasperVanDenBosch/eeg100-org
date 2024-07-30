@@ -1,8 +1,6 @@
 +++
-SequenceNumber = 800
+SequenceNumber = 50
 +++
-
-## About
 
 In July 2024 it will be exactly 100 years since [the first human EEG](https://en.wikipedia.org/wiki/Electroencephalography#History) was recorded.
 Much has happened since then and in light of ongoing developments on hardware, software, and theory side the method might still be about to grow to its full potential.
