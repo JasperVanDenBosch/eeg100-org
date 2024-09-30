@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    background-color: #F7F7F7;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px; /* bootstrap default for backwards compat */
+}
+
+/* these sometimes appear in html from markdown */
+hr {
+    display: none;
+}
+
+#body-container {
+    margin-top: 40px;
+    min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
+    overflow: hidden; /* prevents child elements' margins from pushing this around  */
+    text-align: center;
+}
+div#content {
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 4em;
+    color: rgb(74, 74, 74);
+}
+
+section {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 99, 99);
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 4px;
+}
+a:hover {
+    color:rgb(0, 57, 57);
+    background-color: #F7F7F7;
+}
+
+
+/* footer */
+footer {
+    height: 30px;
+    overflow: hidden;
+    background-color: rgb(46, 46, 46);
+    color: rgb(131, 140, 149);
+    font-size: 12px;
+    font-weight: normal;
+    padding: 5px 4em;
+    text-align: left;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+/* Competition section  */
+
+#competition img {
+    height: 200px;
+}
+
+#competition a:has(> img) {
+    border: none;
+    padding: none;
+}
+#competition a:has(> img):hover {
+    background-color: transparent;
+}
+
+/* Survey section  */
+
+#survey img {
+    height: 120px;
+}
+
+#survey a:has(> img) {
+    border: none;
+    padding: none;
+}
+#survey a:has(> img):hover {
+    background-color: transparent;
+}
+
+/* Conference sections */
+
+#dgkn img,
+#pbhc img,
+#jena img,
+#cuttingeeg img {
+    height: 80px;
+}
+
+/* Media section  */
+
+#media h3 {
+    text-align: left;
+}
+
+#media ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+#media img[alt="lang-us"], 
+#media img[alt="lang-gb"],
+#media img[alt="lang-ca"],
+#media img[alt="lang-it"],
+#media img[alt="lang-de"] {
+    height: 0.7em;
+    opacity: 0.6;
+}
+
+#media a {
+    text-decoration: none;
+    color: rgb(0, 99, 99);
+    border: none;
+    padding: 0;
+}
+#media a:hover {
+    color:rgb(0, 57, 57);
+    border: none;
+    background-color: white;
+}
+
+
+/* About section  */
+
+#about a {
+    display: inline-block;
+    margin: 1em;
+}
+
+#about img {
+    height: 60px;
+    margin: 10px;
+}
+
+#about a {
+    color: rgb(0, 99, 99);
+    border: none;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+}
+#about a:hover {
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+/* Image competition page */
+
+.article-2024-image-competition h2 {
+    font-size: 24px;
+}
