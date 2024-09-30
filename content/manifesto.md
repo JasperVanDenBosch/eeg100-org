@@ -1,5 +1,5 @@
 +++
-SequenceNumber = 70
+SequenceNumber = 80
 +++
 
 ## Manifesto
