@@ -1,4 +1,4 @@
-{% extends 'defaults/master.jinja2' %}
+{% extends 'master.jinja2' %}
 
 {% block main %}
 
@@ -7,8 +7,8 @@
 </article>
 
 <div class="section-container" id="{{ index.name }}"> {# ideally move this one container up#}
-{% for section in index.sections %}
-    {% include 'defaults/section.jinja2' %}
+{% for leaf in index.leaves %}
+    {% include 'section.jinja2' %}
 {% endfor %}
 </div>
 

@@ -112,6 +112,8 @@ footer {
 
 #media img[alt="lang-us"], 
 #media img[alt="lang-gb"],
+#media img[alt="lang-ca"],
+#media img[alt="lang-it"],
 #media img[alt="lang-de"] {
     height: 0.7em;
     opacity: 0.6;
