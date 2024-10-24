@@ -62,20 +62,6 @@ footer {
     box-sizing: content-box;
 }
 
-/* Competition section  */
-
-#competition img {
-    height: 200px;
-}
-
-#competition a:has(> img) {
-    border: none;
-    padding: none;
-}
-#competition a:has(> img):hover {
-    background-color: transparent;
-}
-
 /* Survey section  */
 
 #survey img {
@@ -154,10 +140,4 @@ footer {
 #about a:hover {
     text-decoration: underline;
     background-color: transparent;
-}
-
-/* Image competition page */
-
-.article-2024-image-competition h2 {
-    font-size: 24px;
 }
