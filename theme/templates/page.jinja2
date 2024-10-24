@@ -2,14 +2,16 @@
 
 {% block main %}
 
-<article class="article-{{ index.name }}">
+<article class="{{ index.name }}">
 {{ index.content_html|safe }}
 </article>
 
-<div class="section-container" id="{{ index.name }}"> {# ideally move this one container up#}
-{% for leaf in index.leaves %}
-    {% include 'section.jinja2' %}
-{% endfor %}
-</div>
+{% if index.leaves %}
+    <div class="section-container">
+        {% for leaf in index.leaves %}
+            {% include 'section.jinja2' %}
+        {% endfor %}
+    </div>
+{% endif %}
 
 {% endblock %}
