@@ -2,7 +2,7 @@
 SequenceNumber = 130
 +++
 
-## CuttingEEG 
+## CuttingEEG X
 
 ![Berlin](/assets/images/berlin.jpg 'Berlin')
 
@@ -10,4 +10,4 @@ SequenceNumber = 130
 
 *A collective for Cutting-edge EEG/MEG research*
 
-[Conference Website](https://cuttingeeg.org)
+[Conference Website](https://cuttingeegx.org)

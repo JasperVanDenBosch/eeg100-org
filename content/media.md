@@ -23,4 +23,4 @@ SequenceNumber = 700
 ### Videos
 
 * [University of Leeds: Researcher Interview](https://www.linkedin.com/posts/university-of-leeds_100-years-of-eeg-ugcPost-7232692460626276353-zMhs)
-* [BrainClinics: Pioneers of the EEG](https://brainclinics.com/pioneers-of-the-eeg/)
+* [BrainClinics: Pioneers of the EEG](https://www.brainclinics.com/research/articles/pioneers-of-the-eeg)
