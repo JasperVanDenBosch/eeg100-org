@@ -8,6 +8,6 @@ SequenceNumber = 106
 
 ### July 6, 2024 | Jena, Germany
 
-*[Deutsche Gesellschaft für Klinische Neurophysiologie und Funktionelle Bildgebung](https://dgkn.de/100jahreeeg)*
+*Deutsche Gesellschaft für Klinische Neurophysiologie und Funktionelle Bildgebung*
 
 [Event Website](https://dgkn.de/100jahreeeg)
