@@ -2,9 +2,14 @@
 <html lang="en">
 <head>
     <meta charset=utf-8>
-    <meta http-equiv=x-ua-compatible content="ie=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
+    <meta
+        syrinx-environment="{{ index.meta.environment }}"
+        syrinx-timestamp="{{ index.meta.timestamp.isoformat() }}"
+        syrinx-version="{{ index.meta.syrinx_version }}"/>
     <link rel="stylesheet" href="/assets/css/index.css">
+    <link rel="canonical" href="{{ index.address }}">
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml">
     <title>EEG100</title>
 </head>
 <body>
